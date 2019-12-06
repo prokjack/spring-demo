@@ -6,8 +6,9 @@ Demo spring server to store messages and their hash (SHA256)
 
 Need to be installed:
 
-[Java 11 sdk](https://openjdk.java.net/install/)
-
+[Java 11 sdk](https://openjdk.java.net/install/)  
+Was tested with java 11, but should run also with java 8. For this need to change java.version property in [pom.xml](pom.xml))   
+  
 [Maven](https://maven.apache.org/download.cgi)
 
 ### How to use
